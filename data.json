@@ -1,0 +1,2302 @@
+[
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 93,
+      "University_Rating": 5,
+      "SOP": 4.7,
+      "LOR": 2.7,
+      "CGPA": 1.43,
+      "Research": true,
+      "Chance_of_Admit": 0.17
+    },
+    {
+      "GRE_Score": 313,
+      "TOEFL_Score": 119,
+      "University_Rating": 1,
+      "SOP": 2.5,
+      "LOR": 2.8,
+      "CGPA": 7.67,
+      "Research": true,
+      "Chance_of_Admit": 0.06
+    },
+    {
+      "GRE_Score": 333,
+      "TOEFL_Score": 86,
+      "University_Rating": 1,
+      "SOP": 4.4,
+      "LOR": 1.1,
+      "CGPA": 7.22,
+      "Research": false,
+      "Chance_of_Admit": 0.27
+    },
+    {
+      "GRE_Score": 328,
+      "TOEFL_Score": 111,
+      "University_Rating": 3,
+      "SOP": 1.8,
+      "LOR": 1.8,
+      "CGPA": 7.43,
+      "Research": true,
+      "Chance_of_Admit": 0.44
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 116,
+      "University_Rating": 1,
+      "SOP": 3.6,
+      "LOR": 4.2,
+      "CGPA": 4.86,
+      "Research": false,
+      "Chance_of_Admit": 0.69
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 82,
+      "University_Rating": 5,
+      "SOP": 3.1,
+      "LOR": 3,
+      "CGPA": 4.21,
+      "Research": false,
+      "Chance_of_Admit": 0.13
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 120,
+      "University_Rating": 3,
+      "SOP": 4.9,
+      "LOR": 3.9,
+      "CGPA": 9.05,
+      "Research": false,
+      "Chance_of_Admit": 0.85
+    },
+    {
+      "GRE_Score": 327,
+      "TOEFL_Score": 94,
+      "University_Rating": 5,
+      "SOP": 3.5,
+      "LOR": 2.6,
+      "CGPA": 5.84,
+      "Research": false,
+      "Chance_of_Admit": 1
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 97,
+      "University_Rating": 2,
+      "SOP": 4.3,
+      "LOR": 1.1,
+      "CGPA": 3.57,
+      "Research": true,
+      "Chance_of_Admit": 0.36
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 110,
+      "University_Rating": 5,
+      "SOP": 1.8,
+      "LOR": 1,
+      "CGPA": 5.18,
+      "Research": false,
+      "Chance_of_Admit": 0.57
+    },
+    {
+      "GRE_Score": 323,
+      "TOEFL_Score": 94,
+      "University_Rating": 5,
+      "SOP": 2.6,
+      "LOR": 1,
+      "CGPA": 3.66,
+      "Research": true,
+      "Chance_of_Admit": 0.63
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 109,
+      "University_Rating": 4,
+      "SOP": 2.2,
+      "LOR": 1.6,
+      "CGPA": 5.57,
+      "Research": true,
+      "Chance_of_Admit": 0.24
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 88,
+      "University_Rating": 5,
+      "SOP": 4.5,
+      "LOR": 2.5,
+      "CGPA": 1.59,
+      "Research": true,
+      "Chance_of_Admit": 0.29
+    },
+    {
+      "GRE_Score": 346,
+      "TOEFL_Score": 107,
+      "University_Rating": 2,
+      "SOP": 1.4,
+      "LOR": 3.1,
+      "CGPA": 7.13,
+      "Research": true,
+      "Chance_of_Admit": 0.88
+    },
+    {
+      "GRE_Score": 329,
+      "TOEFL_Score": 111,
+      "University_Rating": 5,
+      "SOP": 3.2,
+      "LOR": 2.9,
+      "CGPA": 2.39,
+      "Research": false,
+      "Chance_of_Admit": 0.15
+    },
+    {
+      "GRE_Score": 342,
+      "TOEFL_Score": 75,
+      "University_Rating": 2,
+      "SOP": 4.3,
+      "LOR": 4.3,
+      "CGPA": 3.13,
+      "Research": false,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 333,
+      "TOEFL_Score": 113,
+      "University_Rating": 5,
+      "SOP": 4.4,
+      "LOR": 4.9,
+      "CGPA": 6.94,
+      "Research": false,
+      "Chance_of_Admit": 0.83
+    },
+    {
+      "GRE_Score": 314,
+      "TOEFL_Score": 86,
+      "University_Rating": 3,
+      "SOP": 4.3,
+      "LOR": 4.8,
+      "CGPA": 8.26,
+      "Research": false,
+      "Chance_of_Admit": 0.01
+    },
+    {
+      "GRE_Score": 347,
+      "TOEFL_Score": 108,
+      "University_Rating": 2,
+      "SOP": 3.2,
+      "LOR": 2.7,
+      "CGPA": 1.46,
+      "Research": false,
+      "Chance_of_Admit": 0.3
+    },
+    {
+      "GRE_Score": 306,
+      "TOEFL_Score": 120,
+      "University_Rating": 2,
+      "SOP": 4.9,
+      "LOR": 3.5,
+      "CGPA": 5.73,
+      "Research": false,
+      "Chance_of_Admit": 0.87
+    },
+    {
+      "GRE_Score": 332,
+      "TOEFL_Score": 108,
+      "University_Rating": 2,
+      "SOP": 3.8,
+      "LOR": 1.5,
+      "CGPA": 7.96,
+      "Research": true,
+      "Chance_of_Admit": 0.59
+    },
+    {
+      "GRE_Score": 313,
+      "TOEFL_Score": 73,
+      "University_Rating": 3,
+      "SOP": 2.9,
+      "LOR": 3,
+      "CGPA": 9.96,
+      "Research": false,
+      "Chance_of_Admit": 0.16
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 76,
+      "University_Rating": 2,
+      "SOP": 2.1,
+      "LOR": 5,
+      "CGPA": 4.73,
+      "Research": true,
+      "Chance_of_Admit": 0.39
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 115,
+      "University_Rating": 4,
+      "SOP": 3.7,
+      "LOR": 2.3,
+      "CGPA": 5.38,
+      "Research": true,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 326,
+      "TOEFL_Score": 82,
+      "University_Rating": 4,
+      "SOP": 4.4,
+      "LOR": 3.2,
+      "CGPA": 7.94,
+      "Research": false,
+      "Chance_of_Admit": 0.88
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 116,
+      "University_Rating": 1,
+      "SOP": 4.5,
+      "LOR": 1,
+      "CGPA": 4.85,
+      "Research": false,
+      "Chance_of_Admit": 0.66
+    },
+    {
+      "GRE_Score": 341,
+      "TOEFL_Score": 105,
+      "University_Rating": 2,
+      "SOP": 5,
+      "LOR": 2.6,
+      "CGPA": 7.76,
+      "Research": true,
+      "Chance_of_Admit": 0.42
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 99,
+      "University_Rating": 3,
+      "SOP": 1.8,
+      "LOR": 2.6,
+      "CGPA": 4.05,
+      "Research": true,
+      "Chance_of_Admit": 0.66
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 80,
+      "University_Rating": 2,
+      "SOP": 2.2,
+      "LOR": 4.4,
+      "CGPA": 9.2,
+      "Research": true,
+      "Chance_of_Admit": 0.81
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 85,
+      "University_Rating": 1,
+      "SOP": 3.3,
+      "LOR": 3.7,
+      "CGPA": 1.23,
+      "Research": true,
+      "Chance_of_Admit": 0.64
+    },
+    {
+      "GRE_Score": 342,
+      "TOEFL_Score": 70,
+      "University_Rating": 4,
+      "SOP": 3.1,
+      "LOR": 3.9,
+      "CGPA": 2.73,
+      "Research": true,
+      "Chance_of_Admit": 0.82
+    },
+    {
+      "GRE_Score": 311,
+      "TOEFL_Score": 75,
+      "University_Rating": 3,
+      "SOP": 3.5,
+      "LOR": 3.1,
+      "CGPA": 4.96,
+      "Research": false,
+      "Chance_of_Admit": 0.56
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 110,
+      "University_Rating": 3,
+      "SOP": 4,
+      "LOR": 2.7,
+      "CGPA": 2.13,
+      "Research": true,
+      "Chance_of_Admit": 0.04
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 89,
+      "University_Rating": 5,
+      "SOP": 4,
+      "LOR": 4.8,
+      "CGPA": 6.01,
+      "Research": false,
+      "Chance_of_Admit": 0.15
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 102,
+      "University_Rating": 5,
+      "SOP": 2.2,
+      "LOR": 4.9,
+      "CGPA": 7.89,
+      "Research": false,
+      "Chance_of_Admit": 0.87
+    },
+    {
+      "GRE_Score": 329,
+      "TOEFL_Score": 115,
+      "University_Rating": 4,
+      "SOP": 4.1,
+      "LOR": 2.8,
+      "CGPA": 8.5,
+      "Research": false,
+      "Chance_of_Admit": 0.41
+    },
+    {
+      "GRE_Score": 318,
+      "TOEFL_Score": 103,
+      "University_Rating": 5,
+      "SOP": 3.8,
+      "LOR": 1.1,
+      "CGPA": 7.53,
+      "Research": true,
+      "Chance_of_Admit": 0.96
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 74,
+      "University_Rating": 2,
+      "SOP": 2.8,
+      "LOR": 4.4,
+      "CGPA": 4.07,
+      "Research": true,
+      "Chance_of_Admit": 0.12
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 104,
+      "University_Rating": 2,
+      "SOP": 1.3,
+      "LOR": 4.9,
+      "CGPA": 8.12,
+      "Research": false,
+      "Chance_of_Admit": 0.32
+    },
+    {
+      "GRE_Score": 339,
+      "TOEFL_Score": 98,
+      "University_Rating": 5,
+      "SOP": 1.5,
+      "LOR": 1.2,
+      "CGPA": 8.77,
+      "Research": false,
+      "Chance_of_Admit": 0.2
+    },
+    {
+      "GRE_Score": 306,
+      "TOEFL_Score": 80,
+      "University_Rating": 2,
+      "SOP": 2.8,
+      "LOR": 3.7,
+      "CGPA": 2.69,
+      "Research": true,
+      "Chance_of_Admit": 0.1
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 114,
+      "University_Rating": 4,
+      "SOP": 1,
+      "LOR": 2,
+      "CGPA": 1.9,
+      "Research": false,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 336,
+      "TOEFL_Score": 100,
+      "University_Rating": 5,
+      "SOP": 2.6,
+      "LOR": 3.4,
+      "CGPA": 1.09,
+      "Research": false,
+      "Chance_of_Admit": 0.89
+    },
+    {
+      "GRE_Score": 327,
+      "TOEFL_Score": 72,
+      "University_Rating": 5,
+      "SOP": 2.6,
+      "LOR": 1.6,
+      "CGPA": 5.92,
+      "Research": false,
+      "Chance_of_Admit": 0.36
+    },
+    {
+      "GRE_Score": 333,
+      "TOEFL_Score": 100,
+      "University_Rating": 4,
+      "SOP": 3.8,
+      "LOR": 1.4,
+      "CGPA": 8.59,
+      "Research": true,
+      "Chance_of_Admit": 0.96
+    },
+    {
+      "GRE_Score": 340,
+      "TOEFL_Score": 88,
+      "University_Rating": 4,
+      "SOP": 4.4,
+      "LOR": 2.9,
+      "CGPA": 4.8,
+      "Research": true,
+      "Chance_of_Admit": 0.8
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 110,
+      "University_Rating": 4,
+      "SOP": 2.5,
+      "LOR": 2.9,
+      "CGPA": 6.05,
+      "Research": false,
+      "Chance_of_Admit": 0.51
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 84,
+      "University_Rating": 2,
+      "SOP": 4.9,
+      "LOR": 1.3,
+      "CGPA": 3.54,
+      "Research": true,
+      "Chance_of_Admit": 0.02
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 83,
+      "University_Rating": 2,
+      "SOP": 1.2,
+      "LOR": 2.5,
+      "CGPA": 7.34,
+      "Research": false,
+      "Chance_of_Admit": 0.23
+    },
+    {
+      "GRE_Score": 314,
+      "TOEFL_Score": 115,
+      "University_Rating": 1,
+      "SOP": 1,
+      "LOR": 2.6,
+      "CGPA": 4.43,
+      "Research": false,
+      "Chance_of_Admit": 0.94
+    },
+    {
+      "GRE_Score": 331,
+      "TOEFL_Score": 80,
+      "University_Rating": 1,
+      "SOP": 4,
+      "LOR": 3.4,
+      "CGPA": 1.92,
+      "Research": false,
+      "Chance_of_Admit": 0.94
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 96,
+      "University_Rating": 3,
+      "SOP": 4.7,
+      "LOR": 1.4,
+      "CGPA": 4.71,
+      "Research": true,
+      "Chance_of_Admit": 0.83
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 100,
+      "University_Rating": 5,
+      "SOP": 2.5,
+      "LOR": 2.8,
+      "CGPA": 9.88,
+      "Research": false,
+      "Chance_of_Admit": 0.65
+    },
+    {
+      "GRE_Score": 323,
+      "TOEFL_Score": 94,
+      "University_Rating": 1,
+      "SOP": 3.1,
+      "LOR": 4.6,
+      "CGPA": 5.38,
+      "Research": false,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 95,
+      "University_Rating": 2,
+      "SOP": 3.2,
+      "LOR": 3.6,
+      "CGPA": 5.23,
+      "Research": false,
+      "Chance_of_Admit": 0.79
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 111,
+      "University_Rating": 1,
+      "SOP": 4.8,
+      "LOR": 3.6,
+      "CGPA": 1.49,
+      "Research": false,
+      "Chance_of_Admit": 0.78
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 95,
+      "University_Rating": 3,
+      "SOP": 3.7,
+      "LOR": 2.6,
+      "CGPA": 8.8,
+      "Research": true,
+      "Chance_of_Admit": 0.59
+    },
+    {
+      "GRE_Score": 336,
+      "TOEFL_Score": 76,
+      "University_Rating": 4,
+      "SOP": 3.1,
+      "LOR": 3.3,
+      "CGPA": 8.67,
+      "Research": false,
+      "Chance_of_Admit": 0.51
+    },
+    {
+      "GRE_Score": 341,
+      "TOEFL_Score": 87,
+      "University_Rating": 4,
+      "SOP": 2.8,
+      "LOR": 4.9,
+      "CGPA": 8.15,
+      "Research": false,
+      "Chance_of_Admit": 0.91
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 70,
+      "University_Rating": 1,
+      "SOP": 3,
+      "LOR": 2.8,
+      "CGPA": 9.98,
+      "Research": true,
+      "Chance_of_Admit": 0.26
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 103,
+      "University_Rating": 1,
+      "SOP": 4.1,
+      "LOR": 3.9,
+      "CGPA": 4.41,
+      "Research": true,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 319,
+      "TOEFL_Score": 73,
+      "University_Rating": 2,
+      "SOP": 1.2,
+      "LOR": 2,
+      "CGPA": 5.04,
+      "Research": true,
+      "Chance_of_Admit": 0.85
+    },
+    {
+      "GRE_Score": 329,
+      "TOEFL_Score": 99,
+      "University_Rating": 4,
+      "SOP": 5,
+      "LOR": 1.8,
+      "CGPA": 1.87,
+      "Research": true,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 319,
+      "TOEFL_Score": 76,
+      "University_Rating": 3,
+      "SOP": 2.5,
+      "LOR": 5,
+      "CGPA": 9.17,
+      "Research": false,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 116,
+      "University_Rating": 1,
+      "SOP": 2.4,
+      "LOR": 4.5,
+      "CGPA": 8.59,
+      "Research": false,
+      "Chance_of_Admit": 0.76
+    },
+    {
+      "GRE_Score": 321,
+      "TOEFL_Score": 75,
+      "University_Rating": 5,
+      "SOP": 4.7,
+      "LOR": 1.1,
+      "CGPA": 3.14,
+      "Research": true,
+      "Chance_of_Admit": 0.6
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 119,
+      "University_Rating": 5,
+      "SOP": 2.8,
+      "LOR": 2.2,
+      "CGPA": 8.92,
+      "Research": false,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 112,
+      "University_Rating": 1,
+      "SOP": 3.9,
+      "LOR": 2.2,
+      "CGPA": 1.69,
+      "Research": false,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 318,
+      "TOEFL_Score": 76,
+      "University_Rating": 4,
+      "SOP": 2.5,
+      "LOR": 1,
+      "CGPA": 4.72,
+      "Research": true,
+      "Chance_of_Admit": 0.12
+    },
+    {
+      "GRE_Score": 347,
+      "TOEFL_Score": 111,
+      "University_Rating": 5,
+      "SOP": 4.7,
+      "LOR": 3.4,
+      "CGPA": 3.79,
+      "Research": false,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 108,
+      "University_Rating": 3,
+      "SOP": 1.2,
+      "LOR": 3.1,
+      "CGPA": 9.51,
+      "Research": false,
+      "Chance_of_Admit": 0.25
+    },
+    {
+      "GRE_Score": 319,
+      "TOEFL_Score": 70,
+      "University_Rating": 4,
+      "SOP": 4.1,
+      "LOR": 2.2,
+      "CGPA": 3.3,
+      "Research": true,
+      "Chance_of_Admit": 0.93
+    },
+    {
+      "GRE_Score": 310,
+      "TOEFL_Score": 99,
+      "University_Rating": 2,
+      "SOP": 1.5,
+      "LOR": 2.1,
+      "CGPA": 6.12,
+      "Research": true,
+      "Chance_of_Admit": 0.17
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 118,
+      "University_Rating": 1,
+      "SOP": 3.2,
+      "LOR": 1.2,
+      "CGPA": 2.34,
+      "Research": false,
+      "Chance_of_Admit": 0.85
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 98,
+      "University_Rating": 5,
+      "SOP": 1.1,
+      "LOR": 1.6,
+      "CGPA": 2.82,
+      "Research": true,
+      "Chance_of_Admit": 0.62
+    },
+    {
+      "GRE_Score": 307,
+      "TOEFL_Score": 83,
+      "University_Rating": 1,
+      "SOP": 2.9,
+      "LOR": 2.7,
+      "CGPA": 7.92,
+      "Research": false,
+      "Chance_of_Admit": 0.35
+    },
+    {
+      "GRE_Score": 347,
+      "TOEFL_Score": 104,
+      "University_Rating": 3,
+      "SOP": 4.1,
+      "LOR": 1.3,
+      "CGPA": 8.85,
+      "Research": false,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 325,
+      "TOEFL_Score": 104,
+      "University_Rating": 3,
+      "SOP": 3.2,
+      "LOR": 4.3,
+      "CGPA": 5.3,
+      "Research": true,
+      "Chance_of_Admit": 0.09
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 82,
+      "University_Rating": 1,
+      "SOP": 2.1,
+      "LOR": 3.1,
+      "CGPA": 3.83,
+      "Research": true,
+      "Chance_of_Admit": 0.59
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 119,
+      "University_Rating": 1,
+      "SOP": 3.5,
+      "LOR": 2,
+      "CGPA": 4.07,
+      "Research": false,
+      "Chance_of_Admit": 0.02
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 71,
+      "University_Rating": 4,
+      "SOP": 2.9,
+      "LOR": 3.1,
+      "CGPA": 3.65,
+      "Research": true,
+      "Chance_of_Admit": 0.91
+    },
+    {
+      "GRE_Score": 313,
+      "TOEFL_Score": 112,
+      "University_Rating": 1,
+      "SOP": 2.5,
+      "LOR": 1.8,
+      "CGPA": 9.55,
+      "Research": true,
+      "Chance_of_Admit": 0.67
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 83,
+      "University_Rating": 3,
+      "SOP": 3.3,
+      "LOR": 4.9,
+      "CGPA": 2.5,
+      "Research": true,
+      "Chance_of_Admit": 0.08
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 112,
+      "University_Rating": 4,
+      "SOP": 2.4,
+      "LOR": 1.8,
+      "CGPA": 8.31,
+      "Research": false,
+      "Chance_of_Admit": 0.54
+    },
+    {
+      "GRE_Score": 333,
+      "TOEFL_Score": 106,
+      "University_Rating": 5,
+      "SOP": 4.7,
+      "LOR": 5,
+      "CGPA": 2.23,
+      "Research": false,
+      "Chance_of_Admit": 0.62
+    },
+    {
+      "GRE_Score": 328,
+      "TOEFL_Score": 93,
+      "University_Rating": 5,
+      "SOP": 1.1,
+      "LOR": 2.8,
+      "CGPA": 2.65,
+      "Research": false,
+      "Chance_of_Admit": 0.17
+    },
+    {
+      "GRE_Score": 334,
+      "TOEFL_Score": 75,
+      "University_Rating": 2,
+      "SOP": 3.4,
+      "LOR": 1.9,
+      "CGPA": 5.97,
+      "Research": true,
+      "Chance_of_Admit": 0.07
+    },
+    {
+      "GRE_Score": 301,
+      "TOEFL_Score": 71,
+      "University_Rating": 2,
+      "SOP": 3.6,
+      "LOR": 2.8,
+      "CGPA": 5.5,
+      "Research": false,
+      "Chance_of_Admit": 0.92
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 84,
+      "University_Rating": 5,
+      "SOP": 2.9,
+      "LOR": 2.8,
+      "CGPA": 6.27,
+      "Research": true,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 74,
+      "University_Rating": 5,
+      "SOP": 1.1,
+      "LOR": 4.5,
+      "CGPA": 8.33,
+      "Research": true,
+      "Chance_of_Admit": 0.84
+    },
+    {
+      "GRE_Score": 300,
+      "TOEFL_Score": 99,
+      "University_Rating": 4,
+      "SOP": 3.8,
+      "LOR": 3.1,
+      "CGPA": 4.78,
+      "Research": true,
+      "Chance_of_Admit": 0.49
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 109,
+      "University_Rating": 4,
+      "SOP": 1.9,
+      "LOR": 2.2,
+      "CGPA": 8.79,
+      "Research": true,
+      "Chance_of_Admit": 0.02
+    },
+    {
+      "GRE_Score": 331,
+      "TOEFL_Score": 96,
+      "University_Rating": 4,
+      "SOP": 3.9,
+      "LOR": 1.1,
+      "CGPA": 1.15,
+      "Research": false,
+      "Chance_of_Admit": 0.33
+    },
+    {
+      "GRE_Score": 342,
+      "TOEFL_Score": 76,
+      "University_Rating": 1,
+      "SOP": 2.2,
+      "LOR": 3.5,
+      "CGPA": 8.99,
+      "Research": true,
+      "Chance_of_Admit": 0.54
+    },
+    {
+      "GRE_Score": 311,
+      "TOEFL_Score": 81,
+      "University_Rating": 1,
+      "SOP": 2.8,
+      "LOR": 4.1,
+      "CGPA": 2.81,
+      "Research": false,
+      "Chance_of_Admit": 0.19
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 72,
+      "University_Rating": 1,
+      "SOP": 4.1,
+      "LOR": 3.2,
+      "CGPA": 9.6,
+      "Research": true,
+      "Chance_of_Admit": 0.8
+    },
+    {
+      "GRE_Score": 307,
+      "TOEFL_Score": 71,
+      "University_Rating": 2,
+      "SOP": 1.7,
+      "LOR": 1.2,
+      "CGPA": 8.45,
+      "Research": false,
+      "Chance_of_Admit": 0.49
+    },
+    {
+      "GRE_Score": 332,
+      "TOEFL_Score": 112,
+      "University_Rating": 4,
+      "SOP": 1,
+      "LOR": 2.2,
+      "CGPA": 8.36,
+      "Research": false,
+      "Chance_of_Admit": 0.41
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 90,
+      "University_Rating": 2,
+      "SOP": 1.5,
+      "LOR": 2.6,
+      "CGPA": 6.09,
+      "Research": false,
+      "Chance_of_Admit": 0.23
+    },
+    {
+      "GRE_Score": 320,
+      "TOEFL_Score": 96,
+      "University_Rating": 1,
+      "SOP": 4.3,
+      "LOR": 5,
+      "CGPA": 6.96,
+      "Research": false,
+      "Chance_of_Admit": 0.76
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 76,
+      "University_Rating": 5,
+      "SOP": 4.4,
+      "LOR": 1.3,
+      "CGPA": 2.56,
+      "Research": false,
+      "Chance_of_Admit": 0.39
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 90,
+      "University_Rating": 3,
+      "SOP": 4.7,
+      "LOR": 4.9,
+      "CGPA": 4.19,
+      "Research": true,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 323,
+      "TOEFL_Score": 103,
+      "University_Rating": 1,
+      "SOP": 2.8,
+      "LOR": 4.3,
+      "CGPA": 2.73,
+      "Research": false,
+      "Chance_of_Admit": 0.19
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 92,
+      "University_Rating": 4,
+      "SOP": 4.8,
+      "LOR": 2.6,
+      "CGPA": 6.84,
+      "Research": false,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 110,
+      "University_Rating": 1,
+      "SOP": 3.3,
+      "LOR": 2,
+      "CGPA": 9.67,
+      "Research": false,
+      "Chance_of_Admit": 0.38
+    },
+    {
+      "GRE_Score": 304,
+      "TOEFL_Score": 108,
+      "University_Rating": 2,
+      "SOP": 2.2,
+      "LOR": 4.9,
+      "CGPA": 1.69,
+      "Research": false,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 318,
+      "TOEFL_Score": 116,
+      "University_Rating": 1,
+      "SOP": 3.7,
+      "LOR": 2,
+      "CGPA": 6.9,
+      "Research": true,
+      "Chance_of_Admit": 0.84
+    },
+    {
+      "GRE_Score": 301,
+      "TOEFL_Score": 117,
+      "University_Rating": 5,
+      "SOP": 2.4,
+      "LOR": 1.8,
+      "CGPA": 6.65,
+      "Research": false,
+      "Chance_of_Admit": 0.25
+    },
+    {
+      "GRE_Score": 311,
+      "TOEFL_Score": 108,
+      "University_Rating": 1,
+      "SOP": 1.4,
+      "LOR": 1.1,
+      "CGPA": 7.28,
+      "Research": false,
+      "Chance_of_Admit": 0.4
+    },
+    {
+      "GRE_Score": 335,
+      "TOEFL_Score": 102,
+      "University_Rating": 4,
+      "SOP": 1.5,
+      "LOR": 5,
+      "CGPA": 3.76,
+      "Research": false,
+      "Chance_of_Admit": 0.88
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 118,
+      "University_Rating": 5,
+      "SOP": 1.7,
+      "LOR": 4.5,
+      "CGPA": 9.89,
+      "Research": true,
+      "Chance_of_Admit": 0.76
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 110,
+      "University_Rating": 2,
+      "SOP": 2.9,
+      "LOR": 4.8,
+      "CGPA": 2.99,
+      "Research": true,
+      "Chance_of_Admit": 0.16
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 84,
+      "University_Rating": 5,
+      "SOP": 3.6,
+      "LOR": 4.5,
+      "CGPA": 7.45,
+      "Research": true,
+      "Chance_of_Admit": 0.85
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 73,
+      "University_Rating": 5,
+      "SOP": 2.6,
+      "LOR": 2.4,
+      "CGPA": 7.11,
+      "Research": true,
+      "Chance_of_Admit": 0.76
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 70,
+      "University_Rating": 3,
+      "SOP": 4.3,
+      "LOR": 3.7,
+      "CGPA": 2.02,
+      "Research": false,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 113,
+      "University_Rating": 1,
+      "SOP": 3.3,
+      "LOR": 5,
+      "CGPA": 4.77,
+      "Research": false,
+      "Chance_of_Admit": 0.94
+    },
+    {
+      "GRE_Score": 301,
+      "TOEFL_Score": 98,
+      "University_Rating": 1,
+      "SOP": 4.2,
+      "LOR": 1.4,
+      "CGPA": 6.77,
+      "Research": true,
+      "Chance_of_Admit": 0.4
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 84,
+      "University_Rating": 1,
+      "SOP": 3.1,
+      "LOR": 5,
+      "CGPA": 1.92,
+      "Research": true,
+      "Chance_of_Admit": 0.43
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 93,
+      "University_Rating": 2,
+      "SOP": 2.4,
+      "LOR": 3.9,
+      "CGPA": 9.81,
+      "Research": true,
+      "Chance_of_Admit": 0.69
+    },
+    {
+      "GRE_Score": 323,
+      "TOEFL_Score": 96,
+      "University_Rating": 4,
+      "SOP": 4,
+      "LOR": 1.1,
+      "CGPA": 1.52,
+      "Research": false,
+      "Chance_of_Admit": 0.71
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 119,
+      "University_Rating": 3,
+      "SOP": 3.9,
+      "LOR": 4.6,
+      "CGPA": 3.88,
+      "Research": true,
+      "Chance_of_Admit": 0.17
+    },
+    {
+      "GRE_Score": 307,
+      "TOEFL_Score": 84,
+      "University_Rating": 1,
+      "SOP": 4.4,
+      "LOR": 4,
+      "CGPA": 6.98,
+      "Research": true,
+      "Chance_of_Admit": 0.41
+    },
+    {
+      "GRE_Score": 345,
+      "TOEFL_Score": 103,
+      "University_Rating": 5,
+      "SOP": 1.4,
+      "LOR": 4.1,
+      "CGPA": 9.29,
+      "Research": true,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 344,
+      "TOEFL_Score": 75,
+      "University_Rating": 5,
+      "SOP": 2.1,
+      "LOR": 1.7,
+      "CGPA": 4.78,
+      "Research": true,
+      "Chance_of_Admit": 0.7
+    },
+    {
+      "GRE_Score": 342,
+      "TOEFL_Score": 87,
+      "University_Rating": 4,
+      "SOP": 4.8,
+      "LOR": 3.4,
+      "CGPA": 8.58,
+      "Research": false,
+      "Chance_of_Admit": 0.27
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 72,
+      "University_Rating": 5,
+      "SOP": 3.1,
+      "LOR": 1.2,
+      "CGPA": 9.73,
+      "Research": true,
+      "Chance_of_Admit": 0.71
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 120,
+      "University_Rating": 1,
+      "SOP": 4.1,
+      "LOR": 3.3,
+      "CGPA": 8.59,
+      "Research": false,
+      "Chance_of_Admit": 0.12
+    },
+    {
+      "GRE_Score": 322,
+      "TOEFL_Score": 89,
+      "University_Rating": 1,
+      "SOP": 3.3,
+      "LOR": 3.2,
+      "CGPA": 2.75,
+      "Research": false,
+      "Chance_of_Admit": 0.22
+    },
+    {
+      "GRE_Score": 342,
+      "TOEFL_Score": 102,
+      "University_Rating": 2,
+      "SOP": 1.9,
+      "LOR": 1.9,
+      "CGPA": 6.96,
+      "Research": true,
+      "Chance_of_Admit": 0.46
+    },
+    {
+      "GRE_Score": 334,
+      "TOEFL_Score": 87,
+      "University_Rating": 2,
+      "SOP": 1.7,
+      "LOR": 3.3,
+      "CGPA": 4.51,
+      "Research": true,
+      "Chance_of_Admit": 0.92
+    },
+    {
+      "GRE_Score": 334,
+      "TOEFL_Score": 98,
+      "University_Rating": 4,
+      "SOP": 3.9,
+      "LOR": 4.4,
+      "CGPA": 1.48,
+      "Research": true,
+      "Chance_of_Admit": 0.57
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 105,
+      "University_Rating": 1,
+      "SOP": 1.5,
+      "LOR": 3.2,
+      "CGPA": 7.68,
+      "Research": false,
+      "Chance_of_Admit": 0.59
+    },
+    {
+      "GRE_Score": 317,
+      "TOEFL_Score": 105,
+      "University_Rating": 5,
+      "SOP": 3.6,
+      "LOR": 3.3,
+      "CGPA": 2.66,
+      "Research": false,
+      "Chance_of_Admit": 0.75
+    },
+    {
+      "GRE_Score": 334,
+      "TOEFL_Score": 73,
+      "University_Rating": 4,
+      "SOP": 2.3,
+      "LOR": 1.3,
+      "CGPA": 5.85,
+      "Research": true,
+      "Chance_of_Admit": 0.19
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 86,
+      "University_Rating": 2,
+      "SOP": 3.3,
+      "LOR": 2.6,
+      "CGPA": 8.11,
+      "Research": true,
+      "Chance_of_Admit": 0.25
+    },
+    {
+      "GRE_Score": 314,
+      "TOEFL_Score": 117,
+      "University_Rating": 4,
+      "SOP": 4.4,
+      "LOR": 1.1,
+      "CGPA": 5.09,
+      "Research": true,
+      "Chance_of_Admit": 0.67
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 71,
+      "University_Rating": 3,
+      "SOP": 4,
+      "LOR": 3.8,
+      "CGPA": 5.47,
+      "Research": false,
+      "Chance_of_Admit": 0.06
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 105,
+      "University_Rating": 4,
+      "SOP": 2.9,
+      "LOR": 2.3,
+      "CGPA": 8.13,
+      "Research": false,
+      "Chance_of_Admit": 0.44
+    },
+    {
+      "GRE_Score": 348,
+      "TOEFL_Score": 92,
+      "University_Rating": 2,
+      "SOP": 4.5,
+      "LOR": 2.7,
+      "CGPA": 6.67,
+      "Research": true,
+      "Chance_of_Admit": 0.39
+    },
+    {
+      "GRE_Score": 318,
+      "TOEFL_Score": 117,
+      "University_Rating": 3,
+      "SOP": 2.3,
+      "LOR": 4.5,
+      "CGPA": 3.08,
+      "Research": true,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 97,
+      "University_Rating": 3,
+      "SOP": 4.6,
+      "LOR": 4.1,
+      "CGPA": 6.74,
+      "Research": true,
+      "Chance_of_Admit": 0.46
+    },
+    {
+      "GRE_Score": 314,
+      "TOEFL_Score": 84,
+      "University_Rating": 3,
+      "SOP": 2.2,
+      "LOR": 4.1,
+      "CGPA": 2.19,
+      "Research": false,
+      "Chance_of_Admit": 0.53
+    },
+    {
+      "GRE_Score": 323,
+      "TOEFL_Score": 77,
+      "University_Rating": 4,
+      "SOP": 4.3,
+      "LOR": 1.1,
+      "CGPA": 9.02,
+      "Research": true,
+      "Chance_of_Admit": 0.44
+    },
+    {
+      "GRE_Score": 329,
+      "TOEFL_Score": 106,
+      "University_Rating": 4,
+      "SOP": 4.4,
+      "LOR": 3.7,
+      "CGPA": 4.72,
+      "Research": true,
+      "Chance_of_Admit": 0.14
+    },
+    {
+      "GRE_Score": 331,
+      "TOEFL_Score": 119,
+      "University_Rating": 2,
+      "SOP": 2.4,
+      "LOR": 4.5,
+      "CGPA": 2.76,
+      "Research": true,
+      "Chance_of_Admit": 0.86
+    },
+    {
+      "GRE_Score": 303,
+      "TOEFL_Score": 107,
+      "University_Rating": 4,
+      "SOP": 1.4,
+      "LOR": 4,
+      "CGPA": 3.83,
+      "Research": false,
+      "Chance_of_Admit": 0.5
+    },
+    {
+      "GRE_Score": 328,
+      "TOEFL_Score": 97,
+      "University_Rating": 1,
+      "SOP": 3.9,
+      "LOR": 2.4,
+      "CGPA": 5.62,
+      "Research": false,
+      "Chance_of_Admit": 0.21
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 90,
+      "University_Rating": 3,
+      "SOP": 3.3,
+      "LOR": 3.9,
+      "CGPA": 6.96,
+      "Research": true,
+      "Chance_of_Admit": 0.29
+    },
+    {
+      "GRE_Score": 333,
+      "TOEFL_Score": 104,
+      "University_Rating": 2,
+      "SOP": 4.7,
+      "LOR": 2.7,
+      "CGPA": 6.92,
+      "Research": false,
+      "Chance_of_Admit": 0.17
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 86,
+      "University_Rating": 4,
+      "SOP": 4.9,
+      "LOR": 3.7,
+      "CGPA": 2.73,
+      "Research": false,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 334,
+      "TOEFL_Score": 77,
+      "University_Rating": 2,
+      "SOP": 4.2,
+      "LOR": 2.1,
+      "CGPA": 8.77,
+      "Research": true,
+      "Chance_of_Admit": 0.12
+    },
+    {
+      "GRE_Score": 345,
+      "TOEFL_Score": 81,
+      "University_Rating": 3,
+      "SOP": 3.7,
+      "LOR": 1.2,
+      "CGPA": 8.96,
+      "Research": true,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 70,
+      "University_Rating": 1,
+      "SOP": 4.3,
+      "LOR": 1.3,
+      "CGPA": 7.14,
+      "Research": true,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 301,
+      "TOEFL_Score": 83,
+      "University_Rating": 3,
+      "SOP": 1.9,
+      "LOR": 1.7,
+      "CGPA": 6.71,
+      "Research": false,
+      "Chance_of_Admit": 0.34
+    },
+    {
+      "GRE_Score": 318,
+      "TOEFL_Score": 76,
+      "University_Rating": 2,
+      "SOP": 4.4,
+      "LOR": 4.5,
+      "CGPA": 2.96,
+      "Research": false,
+      "Chance_of_Admit": 0.78
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 75,
+      "University_Rating": 5,
+      "SOP": 3.9,
+      "LOR": 2.4,
+      "CGPA": 5.41,
+      "Research": false,
+      "Chance_of_Admit": 0.91
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 75,
+      "University_Rating": 2,
+      "SOP": 1.8,
+      "LOR": 3.9,
+      "CGPA": 7.44,
+      "Research": false,
+      "Chance_of_Admit": 0.49
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 111,
+      "University_Rating": 2,
+      "SOP": 4.3,
+      "LOR": 2,
+      "CGPA": 3.59,
+      "Research": false,
+      "Chance_of_Admit": 0.24
+    },
+    {
+      "GRE_Score": 321,
+      "TOEFL_Score": 76,
+      "University_Rating": 3,
+      "SOP": 4.6,
+      "LOR": 5,
+      "CGPA": 7.42,
+      "Research": false,
+      "Chance_of_Admit": 0.74
+    },
+    {
+      "GRE_Score": 340,
+      "TOEFL_Score": 87,
+      "University_Rating": 5,
+      "SOP": 1.1,
+      "LOR": 1.7,
+      "CGPA": 2.89,
+      "Research": false,
+      "Chance_of_Admit": 0.47
+    },
+    {
+      "GRE_Score": 315,
+      "TOEFL_Score": 81,
+      "University_Rating": 5,
+      "SOP": 4.3,
+      "LOR": 3,
+      "CGPA": 7.68,
+      "Research": false,
+      "Chance_of_Admit": 0.27
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 109,
+      "University_Rating": 3,
+      "SOP": 2,
+      "LOR": 4.3,
+      "CGPA": 9.17,
+      "Research": true,
+      "Chance_of_Admit": 0.52
+    },
+    {
+      "GRE_Score": 335,
+      "TOEFL_Score": 90,
+      "University_Rating": 2,
+      "SOP": 4.7,
+      "LOR": 4.3,
+      "CGPA": 9.52,
+      "Research": false,
+      "Chance_of_Admit": 0.4
+    },
+    {
+      "GRE_Score": 331,
+      "TOEFL_Score": 96,
+      "University_Rating": 2,
+      "SOP": 5,
+      "LOR": 3.1,
+      "CGPA": 3.66,
+      "Research": false,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 346,
+      "TOEFL_Score": 86,
+      "University_Rating": 1,
+      "SOP": 1.4,
+      "LOR": 3.9,
+      "CGPA": 4.19,
+      "Research": true,
+      "Chance_of_Admit": 0.13
+    },
+    {
+      "GRE_Score": 341,
+      "TOEFL_Score": 89,
+      "University_Rating": 3,
+      "SOP": 1.1,
+      "LOR": 1.8,
+      "CGPA": 7.57,
+      "Research": false,
+      "Chance_of_Admit": 0.04
+    },
+    {
+      "GRE_Score": 345,
+      "TOEFL_Score": 85,
+      "University_Rating": 1,
+      "SOP": 3.8,
+      "LOR": 3.6,
+      "CGPA": 2.52,
+      "Research": true,
+      "Chance_of_Admit": 0.28
+    },
+    {
+      "GRE_Score": 344,
+      "TOEFL_Score": 74,
+      "University_Rating": 1,
+      "SOP": 1.2,
+      "LOR": 3.8,
+      "CGPA": 6.59,
+      "Research": false,
+      "Chance_of_Admit": 0.23
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 100,
+      "University_Rating": 5,
+      "SOP": 1,
+      "LOR": 1.2,
+      "CGPA": 3.86,
+      "Research": true,
+      "Chance_of_Admit": 0.4
+    },
+    {
+      "GRE_Score": 306,
+      "TOEFL_Score": 119,
+      "University_Rating": 5,
+      "SOP": 1.5,
+      "LOR": 1,
+      "CGPA": 6.28,
+      "Research": false,
+      "Chance_of_Admit": 0.52
+    },
+    {
+      "GRE_Score": 347,
+      "TOEFL_Score": 113,
+      "University_Rating": 1,
+      "SOP": 1.6,
+      "LOR": 4.7,
+      "CGPA": 2.22,
+      "Research": true,
+      "Chance_of_Admit": 0.18
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 95,
+      "University_Rating": 3,
+      "SOP": 3.4,
+      "LOR": 3.4,
+      "CGPA": 9.59,
+      "Research": true,
+      "Chance_of_Admit": 0.89
+    },
+    {
+      "GRE_Score": 314,
+      "TOEFL_Score": 102,
+      "University_Rating": 5,
+      "SOP": 1,
+      "LOR": 2.5,
+      "CGPA": 9.47,
+      "Research": false,
+      "Chance_of_Admit": 0.03
+    },
+    {
+      "GRE_Score": 301,
+      "TOEFL_Score": 120,
+      "University_Rating": 3,
+      "SOP": 2.8,
+      "LOR": 4.7,
+      "CGPA": 1.51,
+      "Research": false,
+      "Chance_of_Admit": 0.24
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 106,
+      "University_Rating": 2,
+      "SOP": 1.1,
+      "LOR": 1.7,
+      "CGPA": 4.4,
+      "Research": false,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 307,
+      "TOEFL_Score": 119,
+      "University_Rating": 5,
+      "SOP": 2.6,
+      "LOR": 1.3,
+      "CGPA": 9.48,
+      "Research": true,
+      "Chance_of_Admit": 0.11
+    },
+    {
+      "GRE_Score": 311,
+      "TOEFL_Score": 111,
+      "University_Rating": 2,
+      "SOP": 1.7,
+      "LOR": 1.1,
+      "CGPA": 9,
+      "Research": true,
+      "Chance_of_Admit": 0.54
+    },
+    {
+      "GRE_Score": 344,
+      "TOEFL_Score": 89,
+      "University_Rating": 5,
+      "SOP": 4.2,
+      "LOR": 4.3,
+      "CGPA": 4.86,
+      "Research": true,
+      "Chance_of_Admit": 0.38
+    },
+    {
+      "GRE_Score": 337,
+      "TOEFL_Score": 88,
+      "University_Rating": 3,
+      "SOP": 5,
+      "LOR": 4.5,
+      "CGPA": 4.6,
+      "Research": true,
+      "Chance_of_Admit": 0.43
+    },
+    {
+      "GRE_Score": 320,
+      "TOEFL_Score": 96,
+      "University_Rating": 5,
+      "SOP": 1.2,
+      "LOR": 3.2,
+      "CGPA": 3.43,
+      "Research": true,
+      "Chance_of_Admit": 0.41
+    },
+    {
+      "GRE_Score": 326,
+      "TOEFL_Score": 120,
+      "University_Rating": 1,
+      "SOP": 2.2,
+      "LOR": 4.6,
+      "CGPA": 8.7,
+      "Research": true,
+      "Chance_of_Admit": 0.81
+    },
+    {
+      "GRE_Score": 321,
+      "TOEFL_Score": 104,
+      "University_Rating": 4,
+      "SOP": 4.8,
+      "LOR": 1.8,
+      "CGPA": 5.65,
+      "Research": false,
+      "Chance_of_Admit": 0.74
+    },
+    {
+      "GRE_Score": 325,
+      "TOEFL_Score": 116,
+      "University_Rating": 1,
+      "SOP": 1.5,
+      "LOR": 4.9,
+      "CGPA": 9.5,
+      "Research": true,
+      "Chance_of_Admit": 0.75
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 107,
+      "University_Rating": 1,
+      "SOP": 1.6,
+      "LOR": 1.3,
+      "CGPA": 1.25,
+      "Research": false,
+      "Chance_of_Admit": 0.97
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 112,
+      "University_Rating": 2,
+      "SOP": 1.6,
+      "LOR": 2.8,
+      "CGPA": 3.89,
+      "Research": false,
+      "Chance_of_Admit": 0.32
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 71,
+      "University_Rating": 2,
+      "SOP": 3.3,
+      "LOR": 3.3,
+      "CGPA": 3.1,
+      "Research": false,
+      "Chance_of_Admit": 0.37
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 84,
+      "University_Rating": 5,
+      "SOP": 1.2,
+      "LOR": 3.1,
+      "CGPA": 7.66,
+      "Research": false,
+      "Chance_of_Admit": 0.03
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 102,
+      "University_Rating": 5,
+      "SOP": 2.3,
+      "LOR": 3.1,
+      "CGPA": 8.18,
+      "Research": true,
+      "Chance_of_Admit": 0.86
+    },
+    {
+      "GRE_Score": 349,
+      "TOEFL_Score": 87,
+      "University_Rating": 5,
+      "SOP": 4.8,
+      "LOR": 4.1,
+      "CGPA": 6.92,
+      "Research": true,
+      "Chance_of_Admit": 0.79
+    },
+    {
+      "GRE_Score": 343,
+      "TOEFL_Score": 117,
+      "University_Rating": 3,
+      "SOP": 4.4,
+      "LOR": 3.6,
+      "CGPA": 9.21,
+      "Research": false,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 116,
+      "University_Rating": 4,
+      "SOP": 4.4,
+      "LOR": 4.9,
+      "CGPA": 2.85,
+      "Research": true,
+      "Chance_of_Admit": 0.86
+    },
+    {
+      "GRE_Score": 331,
+      "TOEFL_Score": 111,
+      "University_Rating": 4,
+      "SOP": 1.4,
+      "LOR": 3.4,
+      "CGPA": 3.46,
+      "Research": true,
+      "Chance_of_Admit": 0.53
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 90,
+      "University_Rating": 5,
+      "SOP": 4.9,
+      "LOR": 4.6,
+      "CGPA": 3.24,
+      "Research": true,
+      "Chance_of_Admit": 0.24
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 112,
+      "University_Rating": 3,
+      "SOP": 2.8,
+      "LOR": 3.5,
+      "CGPA": 9.38,
+      "Research": true,
+      "Chance_of_Admit": 0.3
+    },
+    {
+      "GRE_Score": 306,
+      "TOEFL_Score": 72,
+      "University_Rating": 3,
+      "SOP": 1.7,
+      "LOR": 2.3,
+      "CGPA": 6.53,
+      "Research": false,
+      "Chance_of_Admit": 0.83
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 96,
+      "University_Rating": 2,
+      "SOP": 2.2,
+      "LOR": 1.2,
+      "CGPA": 8.91,
+      "Research": true,
+      "Chance_of_Admit": 0.39
+    },
+    {
+      "GRE_Score": 312,
+      "TOEFL_Score": 107,
+      "University_Rating": 4,
+      "SOP": 1.9,
+      "LOR": 2.2,
+      "CGPA": 4.67,
+      "Research": false,
+      "Chance_of_Admit": 0.6
+    },
+    {
+      "GRE_Score": 319,
+      "TOEFL_Score": 75,
+      "University_Rating": 1,
+      "SOP": 3.1,
+      "LOR": 4.3,
+      "CGPA": 2.83,
+      "Research": false,
+      "Chance_of_Admit": 0.48
+    },
+    {
+      "GRE_Score": 328,
+      "TOEFL_Score": 73,
+      "University_Rating": 1,
+      "SOP": 4.4,
+      "LOR": 2.3,
+      "CGPA": 4.69,
+      "Research": true,
+      "Chance_of_Admit": 0.89
+    },
+    {
+      "GRE_Score": 344,
+      "TOEFL_Score": 99,
+      "University_Rating": 3,
+      "SOP": 2.2,
+      "LOR": 2.4,
+      "CGPA": 5.21,
+      "Research": false,
+      "Chance_of_Admit": 0.94
+    },
+    {
+      "GRE_Score": 345,
+      "TOEFL_Score": 108,
+      "University_Rating": 3,
+      "SOP": 3.4,
+      "LOR": 4.7,
+      "CGPA": 5.53,
+      "Research": false,
+      "Chance_of_Admit": 0.19
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 112,
+      "University_Rating": 5,
+      "SOP": 3.7,
+      "LOR": 4,
+      "CGPA": 2.89,
+      "Research": false,
+      "Chance_of_Admit": 0.61
+    },
+    {
+      "GRE_Score": 330,
+      "TOEFL_Score": 74,
+      "University_Rating": 5,
+      "SOP": 4.2,
+      "LOR": 2.9,
+      "CGPA": 2.62,
+      "Research": true,
+      "Chance_of_Admit": 0.16
+    },
+    {
+      "GRE_Score": 310,
+      "TOEFL_Score": 94,
+      "University_Rating": 4,
+      "SOP": 1.2,
+      "LOR": 2.5,
+      "CGPA": 9.24,
+      "Research": true,
+      "Chance_of_Admit": 0.06
+    },
+    {
+      "GRE_Score": 302,
+      "TOEFL_Score": 110,
+      "University_Rating": 5,
+      "SOP": 2.8,
+      "LOR": 2.8,
+      "CGPA": 2.3,
+      "Research": true,
+      "Chance_of_Admit": 0.44
+    },
+    {
+      "GRE_Score": 345,
+      "TOEFL_Score": 95,
+      "University_Rating": 1,
+      "SOP": 4.6,
+      "LOR": 2.3,
+      "CGPA": 7.1,
+      "Research": true,
+      "Chance_of_Admit": 0.91
+    },
+    {
+      "GRE_Score": 332,
+      "TOEFL_Score": 87,
+      "University_Rating": 3,
+      "SOP": 5,
+      "LOR": 4.2,
+      "CGPA": 5.9,
+      "Research": true,
+      "Chance_of_Admit": 0.84
+    },
+    {
+      "GRE_Score": 317,
+      "TOEFL_Score": 90,
+      "University_Rating": 1,
+      "SOP": 1.5,
+      "LOR": 1.7,
+      "CGPA": 4.24,
+      "Research": false,
+      "Chance_of_Admit": 0
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 94,
+      "University_Rating": 1,
+      "SOP": 2.3,
+      "LOR": 1.5,
+      "CGPA": 9.34,
+      "Research": true,
+      "Chance_of_Admit": 0.15
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 95,
+      "University_Rating": 4,
+      "SOP": 2.1,
+      "LOR": 1.2,
+      "CGPA": 2.97,
+      "Research": false,
+      "Chance_of_Admit": 0.27
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 100,
+      "University_Rating": 3,
+      "SOP": 4.5,
+      "LOR": 3.1,
+      "CGPA": 6.21,
+      "Research": false,
+      "Chance_of_Admit": 0.56
+    },
+    {
+      "GRE_Score": 336,
+      "TOEFL_Score": 104,
+      "University_Rating": 2,
+      "SOP": 2.2,
+      "LOR": 3.8,
+      "CGPA": 3.75,
+      "Research": false,
+      "Chance_of_Admit": 0.77
+    },
+    {
+      "GRE_Score": 324,
+      "TOEFL_Score": 85,
+      "University_Rating": 4,
+      "SOP": 4.7,
+      "LOR": 4.5,
+      "CGPA": 3.75,
+      "Research": true,
+      "Chance_of_Admit": 0.81
+    },
+    {
+      "GRE_Score": 306,
+      "TOEFL_Score": 105,
+      "University_Rating": 4,
+      "SOP": 1.9,
+      "LOR": 4.2,
+      "CGPA": 7.36,
+      "Research": false,
+      "Chance_of_Admit": 0.23
+    },
+    {
+      "GRE_Score": 317,
+      "TOEFL_Score": 104,
+      "University_Rating": 3,
+      "SOP": 2.6,
+      "LOR": 3.9,
+      "CGPA": 3.15,
+      "Research": true,
+      "Chance_of_Admit": 1
+    },
+    {
+      "GRE_Score": 308,
+      "TOEFL_Score": 93,
+      "University_Rating": 3,
+      "SOP": 2.6,
+      "LOR": 4.3,
+      "CGPA": 9.49,
+      "Research": true,
+      "Chance_of_Admit": 0.9
+    },
+    {
+      "GRE_Score": 335,
+      "TOEFL_Score": 98,
+      "University_Rating": 3,
+      "SOP": 4.7,
+      "LOR": 4.5,
+      "CGPA": 9.27,
+      "Research": true,
+      "Chance_of_Admit": 0.19
+    },
+    {
+      "GRE_Score": 305,
+      "TOEFL_Score": 82,
+      "University_Rating": 4,
+      "SOP": 2,
+      "LOR": 3,
+      "CGPA": 8.71,
+      "Research": true,
+      "Chance_of_Admit": 0.63
+    },
+    {
+      "GRE_Score": 303,
+      "TOEFL_Score": 91,
+      "University_Rating": 4,
+      "SOP": 3.3,
+      "LOR": 3.1,
+      "CGPA": 5.16,
+      "Research": true,
+      "Chance_of_Admit": 0.88
+    },
+    {
+      "GRE_Score": 303,
+      "TOEFL_Score": 98,
+      "University_Rating": 4,
+      "SOP": 4.5,
+      "LOR": 3.6,
+      "CGPA": 5.06,
+      "Research": true,
+      "Chance_of_Admit": 0.88
+    },
+    {
+      "GRE_Score": 350,
+      "TOEFL_Score": 97,
+      "University_Rating": 1,
+      "SOP": 1.8,
+      "LOR": 3.2,
+      "CGPA": 9.64,
+      "Research": true,
+      "Chance_of_Admit": 0.3
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 74,
+      "University_Rating": 2,
+      "SOP": 1.9,
+      "LOR": 4.2,
+      "CGPA": 3.79,
+      "Research": true,
+      "Chance_of_Admit": 0.75
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 92,
+      "University_Rating": 2,
+      "SOP": 2.3,
+      "LOR": 1.9,
+      "CGPA": 8.57,
+      "Research": false,
+      "Chance_of_Admit": 0.3
+    },
+    {
+      "GRE_Score": 339,
+      "TOEFL_Score": 113,
+      "University_Rating": 3,
+      "SOP": 3.1,
+      "LOR": 4.4,
+      "CGPA": 5.45,
+      "Research": false,
+      "Chance_of_Admit": 0.96
+    },
+    {
+      "GRE_Score": 316,
+      "TOEFL_Score": 95,
+      "University_Rating": 3,
+      "SOP": 3.7,
+      "LOR": 4.9,
+      "CGPA": 2.15,
+      "Research": false,
+      "Chance_of_Admit": 0.66
+    },
+    {
+      "GRE_Score": 332,
+      "TOEFL_Score": 84,
+      "University_Rating": 5,
+      "SOP": 1.8,
+      "LOR": 4,
+      "CGPA": 4.51,
+      "Research": false,
+      "Chance_of_Admit": 0.95
+    },
+    {
+      "GRE_Score": 309,
+      "TOEFL_Score": 104,
+      "University_Rating": 3,
+      "SOP": 1.7,
+      "LOR": 3.3,
+      "CGPA": 6.25,
+      "Research": false,
+      "Chance_of_Admit": 0.68
+    },
+    {
+      "GRE_Score": 338,
+      "TOEFL_Score": 92,
+      "University_Rating": 2,
+      "SOP": 1.7,
+      "LOR": 4.7,
+      "CGPA": 6.88,
+      "Research": false,
+      "Chance_of_Admit": 0.92
+    },
+    {
+      "GRE_Score": 340,
+      "TOEFL_Score": 117,
+      "University_Rating": 1,
+      "SOP": 1.2,
+      "LOR": 2.1,
+      "CGPA": 4.26,
+      "Research": false,
+      "Chance_of_Admit": 0.08
+    },
+    {
+      "GRE_Score": 327,
+      "TOEFL_Score": 71,
+      "University_Rating": 4,
+      "SOP": 1.1,
+      "LOR": 2.3,
+      "CGPA": 3.51,
+      "Research": false,
+      "Chance_of_Admit": 0.84
+    }
+  ]
